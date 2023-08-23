@@ -1,8 +1,7 @@
 # Cypress_API_Automation
 
 
-API Automation README
-This README provides an overview of API automation testing, focusing on the fundamental HTTP methods: GET, POST, PUT, and DELETE. In API automation, we validate the functionality, performance, and reliability of APIs programmatically, ensuring they behave as expected.
+This Repo provides an overview of API automation testing, focusing on the fundamental HTTP methods: GET, POST, PUT, and DELETE. In API automation, we validate the functionality, performance, and reliability of APIs programmatically, ensuring they behave as expected.
 
 Table of Contents
 Introduction
