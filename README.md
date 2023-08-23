@@ -3,13 +3,20 @@
 
 This Repo provides an overview of API automation testing, focusing on the fundamental HTTP methods: GET, POST, PUT, and DELETE. In API automation, we validate the functionality, performance, and reliability of APIs programmatically, ensuring they behave as expected.
 
-Table of Contents
+**Table of Contents**
 Introduction
+
 Testing HTTP Methods
+
 GET Requests
+
 POST Requests
+
+
 PUT Requests
+
 DELETE Requests
+
 Conclusion
 
 
