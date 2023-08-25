@@ -44,7 +44,7 @@ describe(' Delete API Automation In Cypress', () => {
                 headers: {
                     Authorization: 'Bearer 96096fd0358d8c24b76ba3e3e415aae7102a4452fdf0ad819c070462c474b70b'
                 },
-                failOnStatusCode:false
+                failOnStatusCode: false
             }).then((response) => {
                 expect(response.status).to.be.equal(404)
             })
@@ -52,6 +52,7 @@ describe(' Delete API Automation In Cypress', () => {
 
 
     })
+
 
 
 })
